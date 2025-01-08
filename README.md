@@ -10,6 +10,8 @@ Tenho mais de dois anos de experiência na área de dados, atuando em projetos q
 <a href="https://linkedin.com/in/elisreginaweiss" target="_blank"><img align="center" src="img/linkedin.png" alt="LinkedIn cmcouto-silva" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/29109468/elis-weiss)" target="_blank"><img align="center" src="img/stackoverflow.png" alt="Stackoverflow cmcouto-silva" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@eliswtech" target="_blank"><img align="center" src="img/youtube.png" alt="LinkedIn cmcouto-silva" height="30" width="30" /></a>
+<a href="mailto:elisw.tech@gmail.com" target="_blank"><img align="center" src="img/gmail-new.png" alt="Email seu-email@gmail.com" height="30" width="30" /></a>
+
 
 ## Skills
 
